@@ -1,12 +1,6 @@
 # sesion-01a
 
-UNIVERSIDAD DIEGO PORTALES 
-FACULTAD DE ARQUITECTURA, ARTE Y DISEÑO. 
-
-DISEÑO GRÁFICO
-
-## REPORTE INVESTIGATIVO ESCRITO del documental “Sisters with 
-Transistors” 
+## REPORTE INVESTIGATIVO ESCRITO del documental “Sisters with Transistors” 
 
 ASIGNATURA: Taller de diseño de máquinas electrónicas 
 
@@ -16,7 +10,6 @@ Guerra
 ESTUDIANTE: Santiago Cifuentes Vélez 
 
 CIUDAD: Santiago de Chile 
-FECHA: 12-03-25 
 
 ### RESUMEN 
 En este reporte escrito se expondrá una pequeña presentación del 
@@ -54,7 +47,7 @@ desde el primer momento que la escuché y la vi.
 La compositora, **Suzanne Ciani.** 
 **Que siempre tenía una pierna en el presente y otra en el futuro.**
 
-*Aquí va una foto
+<img src="https://www.self-titledmag.com/wp-content/uploads/2014/04/lixiviation-4-1024x682.jpg" alt="Imagen" width="50%">
 
 Empresaria, compositora y productora musical, y artista 
 experimental, nacida el 4 de junio de 1946 en Indianápolis (USA) 
@@ -88,7 +81,8 @@ donde todo cambió para Suzanne. Pues conoció al diseñador de
 sintetizadores “Don Buchla”:
 
 (El sintetizador Buchla)
-*Aquí va una foto
+
+<img src="https://www.futuremusic-es.com/wp-content/uploads/2016/09/Don_Buchla_historico_oficial_modular_750px.jpg" width="300">
 
 Y fue con este sintetizador donde comenzó la magia musical.
 
