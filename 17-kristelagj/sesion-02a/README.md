@@ -86,6 +86,17 @@ Mucho de las cosas que hacemos es por sentir algo (aaron)
 4. Coloque otro circuito, pero de manera equivocada y la luz del primer circuito fallaba
 
 - Analisis artistas
+
+LCD Soundsystem.
+
+Cuando comenzamos a escucharlos en clases quedé impresionada con ellos, escuché con mucha atención todo, al principio pensé que eran británicos, pero no. Tienen un poco de esa impronta de la música británica de los 80 que me gusta, además que me recuerda mucho a la música que se ocupa en la serie Heartstopper que me encanta Además, cuando llegue a mi casa a escucharlos, me recordó a una pieza que tuve la oportunidad de escuchar en vivo que se llama “Short Ride in a Fast Machine” la cual cada instrumento de la orquesta es un sonido distinto. Cada que avanza, se van incorporando y generando nuevos sonidos. 
+
+Entonces comencé a pensar: ¿qué los hace parecidos y porque me gustan tanto? respondiendo así la pregunta que me llama la atención. Me encanta la recepción de sonidos y con ellos la creación de nuevos. Me gusta escucharlos en momentos en donde necesito mayor relajación, algo que sea constante al igual que mi concentración.
+
+Elegí el álbum “american dream” (loco igual, ya que la pieza que mencioné anteriormente fue del programa “americano en parís”) ya que contiene mi canción favorita “oh baby”. Este álbum los reúne tras 5 años de separación. Este se tomó una cantidad de 18 meses aproximadamente de su grabación teniendo que cancelar fechas en Asia para poder completarlo. Musicalmente, American Dream ha sido descrito como dance-punk, new wave , post-punk, synth-pop, art rock y dance-rock (esto explica porque me gusta mucho este álbum). Los críticos señalaron que el álbum era similar a la trilogía berlinesa de David Bowie (al igual que esto).
+
+Al igual que las críticas, no es de mi interés y gusto su portada (me gusta hablar de esto ya que yo me dedico a realizar este trabajo)
+
 - Ejercicios
 
 
