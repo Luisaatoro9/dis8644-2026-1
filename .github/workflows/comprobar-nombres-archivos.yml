@@ -1,0 +1,12 @@
+# comprobar que los archivos esten bien nombrados, es decir, que no tengan espacios, tildes, etc.
+
+name: comprobarNombresArchivos
+
+on: [push, pull_request]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: piruetasxyz/nombresArchivos@v0.0.9

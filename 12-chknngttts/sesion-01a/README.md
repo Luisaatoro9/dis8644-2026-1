@@ -119,6 +119,7 @@
     - https://www.youtube.com/watch?v=-gNBqmeckz4 (Entrevista)
       - "Si lo puedes romper, lo puedes armar... probablemente"
     - https://slausonmalone.bandcamp.com/album/excelsior (Album) (Muy recomendado!!!)
+    - ![Album Excelsior Portada](./imagenes/excelsior.jpg)
   - Usa muchos synths en Excelsior (También uso Tapeloops)
     - Se hizo instrumentos en Max (También efectos)
       - Me recordó a los protoboard/circuitos pero hechos de manera digital
@@ -136,4 +137,6 @@
         - [5: Cinema](https://youtu.be/UStKlIpw72k?si=orTbFVve4aM8uUQZ&t=920)
         - [6: Synth(?)](https://youtu.be/UStKlIpw72k?si=orTbFVve4aM8uUQZ&t=1060)
         - [7: LA GUITARRA CON DISTORCION IMPACTANTE!!!!!!1!!!!](https://youtu.be/UStKlIpw72k?si=orTbFVve4aM8uUQZ&t=1340)
+       
+![hola](./imagenes/lol.png)
     

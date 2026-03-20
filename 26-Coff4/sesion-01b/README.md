@@ -22,7 +22,7 @@ LED: La pata larga es la positiva y la corta es la negativa
 
 Rafael Benguria: es un físico-matemático chileno, Premio Nacional de Ciencias Exactas de 2005 por sus investigaciones en Física Matemática, y actual profesor de la Pontificia Universidad Católica de Chile
 
-(Imagenes de proceso proximamente)
+![Circuito hecho en Tinkerkad](./imagenes/circuitosimple.png)
 
 ---
 
