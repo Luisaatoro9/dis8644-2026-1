@@ -57,3 +57,10 @@ Se puede distinguir tiene polaridad porque tiene una marca en una de las patas y
 (uF) la U rara se llama **MU** y es como la de utorrent Micro 10 elevado a la menos 6
 
 Y las que se parecen lentejas se llama Cerámico y dice **104** porque tiene un código eso significa 100 mF y eme significa 10 a la -9
+
+## Chip 555, IC: (Circuito Integrado) 
+
+y tiene distintos nombre en este caso dice NE**555**P nombre legal Circuito Integrado
+
+tiene 8 patas: el punto (muesca) se pone a la izquierda y abajo a la izquierda está la primera pata y se cuentan contra las agujas del reloj
+
