@@ -97,4 +97,6 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 **chip ic:**  Es una pastilla de silicio que contiene miles de componentes diminutos en su interior . Sirve para realizar funciones complejas (como procesar datos o amplificar sonido) en un espacio muy reducido. Contador de secuencialidad. Se coloca entorno al eje céntrico de la proto (tiene transistores dentro)
 
-**un broche de batería:** conecta la batería al circuito Rojo: Poder (arriba) Negro: Tierra (abajo)
+**un broche de batería:** conecta la batería al circuito Rojo: Poder (arriba) Negro: Tierra (abajo) 
+
+### Reflexiones
