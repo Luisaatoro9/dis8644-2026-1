@@ -32,3 +32,44 @@ La oscilación ocirre en la patita del chip (oscilacion estar entre prendido y a
 
 osea que el 555 está respirando segun la energia que uno le da y sellama 555 porque tiene dentro 3 resistencias casi de 5 kilos, Buscar How a 555 Timer clip work GIF
 
+###Vamos a jugar con el Output
+
+llegar al punto con luz y sin luz
+
+Siempre al hacer cambios desconectar la batería
+
+Por lo general para el parlante se coloca un condensador de 100 uF
+
+Impotan los colores de los cables y el espacio con la distribución
+
+Hacemos que este chip genera energia electrica que golpea los imanes de la bocina y la convierte en energía mecánica
+
+---
+experimento del profe conecta directamente la batería el polo positivo al parlante y el polo negativo también al negativo (el parlante se enguata) pero cuando se invierten los polos el parlante se contrae)
+---
+
+Jhon Cage: es bueno en música y sonido y sabe sobre champiñones
+
+Merce Cunninhaam  
+
+David tudor: pieza "4´33" 
+
+COndensador en serie suavisa la señal y crea un mabió, poque es un poco mas selectivo
+
+El inductor hace lo contrario del capacitor pero no veremos nada de algún inductor
+
+con resistencias y condensadores puedo filtrar
+
+Filtro escalera Moog
+
+Oscilador victoriano, el señor se llama; Macumbista
+
+Lo que nosotros escuchamos es el cambio de sonido
+
+OVCC significava VOLTAGE DE CORRIENTE DIRECTA o Voltaje positivo y GND Tierra o Negativo
+
+###Simbolo de interruptor 
+
+Interruptur hay switch y temporal
+              Ampolleta   Timbre
+
