@@ -68,8 +68,17 @@ Lo que nosotros escuchamos es el cambio de sonido
 
 OVCC significava VOLTAGE DE CORRIENTE DIRECTA o Voltaje positivo y GND Tierra o Negativo
 
-###Simbolo de interruptor 
+###interruptor 
 
 Interruptur hay switch y temporal
+
               Ampolleta   Timbre
+              
+Son botones en este caso usaremos Temporales que son tipo timbre / Push / Momentaneo
+
+simbolo es como una puera abierta
+
+el interruptor del esquema solo tiene 2 patas pero para colocarlo se usan 4 para mejor estabilidad y por eso tiene 4 patas Y siempre me conecto con las diagonales que me aseguro así que siempre voy a tomar las 2 patas distintas
+
+dejamos en la prto board el más hacia Abajo dejamos el lado plano y dejamos arriba espacio para conectar
 
