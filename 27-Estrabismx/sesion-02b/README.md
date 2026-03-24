@@ -5,17 +5,33 @@
 El dia de hoy revisamos una mayor variedad de componentes electronicos, por lo que realizaré un listado de los ya vistos:
 ### - Resistencia ###
 
+***Encargado de que nada explote***
+
 Una resistencia es el componente que *frena* un circuito. Si la electricidad fuera agua corriendo por una tubería, la resistencia sería un estrechamiento en el tubo que limita cuánto líquido puede pasar. Su función principal es controlar el flujo de electrones para que no lleguen con demasiada fuerza a piezas delicadas (como un LED) y las quemen.
 
 Se mide en Ohms ($\Omega$) y no posee polaridad, por lo que no posee una orientación fija, lo puedes conectar como quieras. 
 
 Para identificar el tipo de resistencia posee 4 colores, los cuales nos indican los valores correspondientes
 
-![Codigo de colores resistencias](./imagenes//codigo-colores-resistencias.jpg)
+![Codigo de colores resistencias](./imagenes/codigo-colores-resistencias.jpg)
 
-***Encargado de que nada explote***
+<br>
 
-### - Led ###
+### - Led (Diodo Emisor de Luz) ###
+
+***Lucecita que se activa con poca energía***
+
+Es básicamente un foco diminuto, pero mucho más eficiente y resistente que las ampolletas antiguas. En términos técnicos, es un componente que deja pasar la electricidad en un solo sentido y al hacerlo, brilla.
+
+Si la resistencia era el **freno**, el LED es el **indicador** o la **estrella** del circuito. Lo más importante que es que tiene polaridad: si lo conectas al revés, simplemente no prende.
+
+>Su lado positivo se llama ***anodo*** y su negativo ***catodo***
+
+[Insertar imagen sobre polaridad led]
+![Polaridad Diodo](./imagenes/polaridad-diodo.jpg)
+
+[Estamos trabajando para usted xd / termino esto luego profe, deme chance xd]
+
 ### - Batería ###
 ### - Cable ###
 ### - Protoboard ###
