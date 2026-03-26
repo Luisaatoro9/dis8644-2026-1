@@ -108,6 +108,8 @@ Matuvimos y repasamos el circuito aprendido en clase e hicimos el inteto siguien
 
 ![ejemplo 4](./imagenes/circuito_toyorgan.jpeg)
 
+![ejemplo 5](./imagenes/circuito_organ_esquema.png)
+
 Documental: Variaciones Espectrales
 ---
 
