@@ -12,11 +12,22 @@
 
 Observaciones: Debido a que anteriormente se dañó (explotó) un chip garrapata, primero se intentó llegar a un resultado aproximado en la plataforma Tinkercad para luego recrearlo en la protoboard. Por este motivo se cometieron algunos errores durante el proceso.
 
-Errores: Se conectaron algunos cables de forma incorrecta al momento de trabajar con los chips. Además, aún existe confusión con la numeración de las patas de los integrados, lo que provocó equivocaciones en las conexiones.
+Errores: Se conectaron algunos cables de forma incorrecta al momento de trabajar con los chips. Además, aún existe confusión con la numeración de las patas, lo que provocó equivocaciones en las conexiones.
 
-Resultado: Las bocinas suenan según los botones que se presionan en Tinkercad, produciendo vibraciones que generan el sonido. No se observan grandes cambios en el sonido, ya que en la plataforma no es posible presionar varios botones exactamente al mismo tiempo.
 
-![ej,tinkercad](https://github.com/paulafuentesm/dis8644-2026-1/blob/a3159b804a48894e96dd259ae5b62c6c0bc932bd/13-paulafuentesm/sesion-03a/imagenes/botones_ej/tinkecad_botones.png)
+***Intento 01:***
+
+Observaciones: La vocina solo todo el tiempo y sonaba mas agudo al mento de apretar el boton. No habia un control del sonido como se habia visto en clases, solo una variacion de estè.
+
+Errores: No se conectaron los cocodrilos al parlante y se conecto a la protoboard ( tiene que  estar por fuera)
+
+![ej,tinkerca_o1](https://github.com/paulafuentesm/dis8644-2026-1/blob/68372e3237feef5437b894e2717b0125a6b99744/13-paulafuentesm/sesion-03a/imagenes/botones_ej/tinkecad_botones_01.jpg)
+
+***Intento 02:***
+
+Observaciones: Las bocinas suenan según los botones que se presionan en Tinkercad, produciendo vibraciones que generan el sonido. No se observan grandes cambios en el sonido, ya que en la plataforma no es posible presionar varios botones exactamente al mismo tiempo.
+
+![ej,tinkercad_02](https://github.com/paulafuentesm/dis8644-2026-1/blob/68372e3237feef5437b894e2717b0125a6b99744/13-paulafuentesm/sesion-03a/imagenes/botones_ej/tinkecad_botones_02.png)
 
 ***EJERCICIO EN PROTOBOARD***
 
