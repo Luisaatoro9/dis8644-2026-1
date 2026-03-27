@@ -37,4 +37,6 @@ Nos agrupamos con dos compañeros más e intentamos armar el circuito. En el pri
 
 ### Variaciones Espectrales
 
-tecnología punta de los años 70'
+En el documental se habla sobre la vida del ingeniero y músico chileno José Vicente Asuar, pionero de la música electroacústica chilena, el cual generalmente se reconoce por ser el creador del "COMDASUAR", siendo éste el primer computador musical en latinoamérica el cual el mismo Asuar dijo que era considerado como tecnología punta en los años 70'. Al inicio del documental hablan de Asuar como un músico misterioso, alguien que hizo algo impresionante, pero que debido a la falta de interés que hubo en su época desapareció y costó bastante ubicarlo y ponerse en contacto con él para poder crear el video que hemos visto. 
+
+Asuar cuenta que la música está en muchos elementos de la naturaleza, recordando escuchar un concierto de pájaros, los cuales tenían tonos agudos, graves y habían distintas velocidades sin un verdadero órden, al igual que la música electroacústica que es una abstracción de los sonidos que nos rodean tal como nos cuenta Claudio Asuar.
