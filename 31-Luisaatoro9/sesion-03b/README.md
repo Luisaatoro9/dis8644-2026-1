@@ -47,16 +47,16 @@ Para dos resistencias en paralelo, la fórmula simplificada que mencionaste (mul
 <img width="400" height="898" alt="Captura de pantalla 2026-03-27 110857" src="https://github.com/user-attachments/assets/b1f4ec71-2f1e-45fd-ab79-70cfeff5ae25" />
 <img width="380" height="934" alt="Captura de pantalla 2026-03-27 111123" src="https://github.com/user-attachments/assets/db52f551-42f6-4eda-a30f-ddb77377c0e2" />
 
-
-
-
-
-
-
-
-**Ejercicios:**
+# **Ejercicios:**
 
 https://github.com/user-attachments/assets/a6650c78-b97b-4c8c-8c9e-d1963e3b5500
+
+R1 va a ser un pote
+R4 va a ser un LDR
+C1 va ser de 100n
+<img width="1000" height="541" alt="atari-punk" src="https://github.com/user-attachments/assets/40ef318c-a4b2-4f98-8b45-ac2595e7eef9" />
+
+
 
 
 
