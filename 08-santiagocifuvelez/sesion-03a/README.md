@@ -33,3 +33,5 @@ El circuito funciona generando una señal que cambia repetidamente entre 0V y 9V
 
 Cuando se utilizan parlantes en un circuito, es importante poder controlar la frecuencia de la señal, ya que esta determina el tono del sonido que se escucha. Por eso, en lugar de una resistencia fija, se emplean componentes como un potenciómetro o un fotorresistor, que permiten variar la resistencia del circuito. El potenciómetro permite un control manual, ajustando el tono según la posición, mientras que el fotorresistor modifica la frecuencia automáticamente en función de la luz del entorno. Así, el circuito deja de ser estático y se vuelve interactivo, generando sonidos que pueden cambiar en tiempo real.
 
+![LDR y potenciometro](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/img3.jpg)
+
