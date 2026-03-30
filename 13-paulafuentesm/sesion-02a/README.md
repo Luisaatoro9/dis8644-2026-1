@@ -198,7 +198,7 @@ Sound of Silver ( 2008)
 + cambios tecnologicos, y vida urbana
 + la portada muestra como una camara pero no estoy segura
 
-![Sound-of-Silver](https://github.com/paulafuentesm/dis8644-2026-1/blob/667be58cd02dc5bb27014d6ace18a7137edf257c/13-paulafuentesm/sesion-02a/imagenes/Sound-of-Silver.jpg)
+![Sound-of-Silver](https://github.com/paulafuentesm/dis8644-2026-1/blob/2cab96cf07c737e3e34f03ade73414f6324c5955/13-paulafuentesm/sesion-02a/imagenes/volksempf%C3%A4nger.jpg)
 
 Imagen: Portada-Fuentes: Wikipedia
 
