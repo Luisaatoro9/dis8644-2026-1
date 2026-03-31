@@ -1,6 +1,6 @@
 # sesion-03b
 
-*** Actualizar sobre suma de resistencias e investigar las leyes de Kirchhoff ***
+***Actualizar sobre suma de resistencias e investigar las leyes de Kirchhoff***
 
 ## Apuntes clase viernes 27 de marzo ##
 
