@@ -1,5 +1,27 @@
 # sesion-02a
 
+## Ejercicio
+Primer circuito con luces led. 
+
+**Esquema:**
+
+![apuntes](./imagenes/sesion-02-a-apuntes.jpeg)
+
+**Ejercicio aplicado:**
+
+Mi protoboard:
+
+![circuito](./imagenes/sesion-02-a-circuito1.jpeg)
+![circuito](./imagenes/sesion-02-a-circuito2.jpeg)
+![circuito](./imagenes/sesion-02-a-circuito3.jpeg)
+![circuito](./imagenes/sesion-02-a-circuito4.jpeg)
+
+El de mi compañera Luisa: 
+
+![circuito](./imagenes/sesion-02-a-circuito5.jpeg)
+
+nota: que divertido me emocioné ;)
+
 ## Engargo 
 
 # Autobahn
@@ -31,9 +53,9 @@ fuente: <https://en.wikipedia.org/wiki/Autobahn_(album)#cite_note-FOOTNOTEHooker
 
 Mi primer acercamiento a Kraftwerk fue hace más o menos 7 años, con la canción “Computer Love”, que es sampleada “Talk” de Coldplay, (me recuerda mucho a mi infancia jeje). Luego escuché el álbum completo, y “The Man-Machine”. Solo conocía esos dos así que esta es la primera vez que escucho este Autobahn.
 
-Al partir me pareció un poco intimidante por lo mucho que dura la primera canción, pensé que me iba a cansar de escuchar tantos sintetizadores, sabiendo también que su música se caracteriza por sonar bastante robótica. La escuché por primera vez antes de saber lo que era la Autobahn. Aún así y sin entender el contexto, durante los casi 23 minutos de la canción me sentí como en un viaje en una nave espacial que se desplaza entre dimensiones y túneles, también de repente un poco desconcertada… definitivamente fue un viaje.  La segunda vez que la escuché, ya sabiendo el contexto de la canción, me pareció brillante, y tremendamente innovadora. Después de escucharla por tercera, cuarta y quinta vez, cada vez me metí más en la experiencia de su sonido y cada vez se me hizo más entretenida. 
+Al partir me pareció un poco intimidante por lo mucho que dura la primera canción, pensé que me iba a cansar de escuchar tantos sintetizadores, sabiendo también que su música se caracteriza por sonar bastante robótica. La escuché por primera vez antes de saber lo que era la Autobahn. Aún así y sin entender el contexto, durante los casi 23 minutos de la canción me sentí como en un viaje en una nave espacial que se desplaza entre dimensiones y túneles, también de repente un poco desconcertada… definitivamente fue un viaje.  La segunda vez que la escuché, ya sabiendo el contexto de la canción, me pareció brillante, y muy innovadora. Después de escucharla por tercera, cuarta y quinta vez (me encantan los viajes en auto), cada vez se me hizo más entretenida y me involucré más en la experiencia del viaje en autopista. 
 
-Autobahn muestra una evolución de la música electrónica planteando nuevas perspectivas y experimentaciones con la evocación a la autopista alemana mediante el uso de sintetizadores para recrear el tráfico, vehículos y velocidad. El crítico Lynn Van Matre (del Chicago Tribune en 1975) describe el álbum como “simplemente una impresión de sonidos y percepción sensorial del camino”
+Autobahn muestra una evolución de la música electrónica planteando nuevas perspectivas y experimentaciones con la evocación a la autopista alemana mediante el uso de sintetizadores para recrear el tráfico, vehículos y velocidad. El crítico Lynn Van Matre (del Chicago Tribune en 1975) describe el álbum como “simplemente una impresión de sonidos y percepción sensorial del camino”.
 
 **El álbum fue grabado principalmente con sintetizadores y caja de ritmo, con el uso ocasional de distintos instrumentos como flauta y guitarra.**
 
