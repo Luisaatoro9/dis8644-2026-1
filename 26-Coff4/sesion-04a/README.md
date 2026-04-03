@@ -136,7 +136,7 @@ El objeto de estudio esta dividido en 3 partes:
 
 - Primer corte: es donde se pueden ver las pilas de reloj
 
-![Codigo de colores sobre las resistencias](./imagenes/pila.jpg)
+![Codigo de colores sobre las resistencias](./imagenes/pilas.jpg)
 ![Codigo de colores sobre las resistencias](./imagenes/primera-fase.jpg)
   
 - Segundo corte: Donde se puede manipular todo el objeto, desde la conexión, la pantalla o lo botones.
