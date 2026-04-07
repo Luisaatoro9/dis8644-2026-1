@@ -2,6 +2,6 @@
 
 viernes 27 de marzo 
 
-## por qué sucedieron esos cambios 
+## se nos fue marzo!!
 
 teoria nerd: 
