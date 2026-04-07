@@ -12,6 +12,5 @@
 
 ### Clase 13 de marzo
 
-subir mis apuntes del cuaderno y fotos!
-
-![circuito](./imagenes/circuito-tinkercad-01.jpg)
+![circuito](./imagenes/38c02da2-f2b1-4275-8f40-addf96e6103f-1_all_7999.jpg)
+![componentes](./imagenes/38c02da2-f2b1-4275-8f40-addf96e6103f-1_all_7997.jpg)
