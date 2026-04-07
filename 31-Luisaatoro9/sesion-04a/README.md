@@ -120,3 +120,25 @@ La clave fue interconectar dos bloques del Chip NE555P para que el estado lógic
 1. Si la 3ª es Marrón: La resistencia es de cientos (ej: 220, 330, 470).
 2. Si la 3ª es Rojo: La resistencia es de miles (ej: 1k, 2.2k, 4.7k).
 3. Si la 3ª es Naranja: La resistencia es de diez miles (ej: 10k, 22k, 47k).
+
+# 🕵️‍♀️ Encargo 04a: Desarmando una Radio Vieja
+
+1. **El proceso de "destripado"** Abrir esta radio fue un lío porque los tornillos estaban súper apretados. Al final logré separarla y me encontré con la placa café llena de piezas. Pude reconocer al tiro las resistencias por los colores que vimos en clase y los capacitores que parecen mini tanques negros. También hay un chip negro con hartas patas que está justo al medio de todo el circuito y al lado del chip también hay un LED verde chiquitito que supongo que es el que avisa cuando la radio está encendida y recibiendo energía.
+
+<img src="https://github.com/user-attachments/assets/da6026a3-6c3d-4d5d-86eb-3f1218a4f812" width="33%"> 
+<img src="https://github.com/user-attachments/assets/c0b0085f-a2ec-4b4f-b633-d9e8cd4ff834" width="33%"> 
+<img src="https://github.com/user-attachments/assets/14f510c7-e3b8-4809-af5e-79cf4266aff6" width="33%"> 
+
+2. **Conexiones con la carcasa** La placa está conectada a la carcasa por varios cables de colores (amarillo y verde) que van directo al parlante, que es esa pieza redonda gigante. También están las ruedas de plástico que uno mueve por fuera para buscar la música; esas ruedas mueven unas piezas que están soldadas a la placa para que la radio pesque la señal.
+<img src="https://github.com/user-attachments/assets/77057278-6939-489c-832a-ff6f3e921591" width="23%"> 
+<img src="https://github.com/user-attachments/assets/bd3dfcd5-7611-46ae-887c-f563c3f668e8" width="38%"> 
+<img src="https://github.com/user-attachments/assets/e4167c48-f2b2-49b5-b65e-4946ebd48988" width="38%"> 
+
+3. Funcionamiento imaginario: "La red que atrapa el viento"
+
+Para mí, esta radio es como una telaraña de cobre gigante escondida en una caja de plástico. La antena, con todos esos hilos enrollados, no es solo metal; es una trampa para cazar los susurros que viajan por el aire. Me imagino que las canciones son como pájaros invisibles que se quedan enredados en el cobre y bajan disparados por los cables amarillos hacia la placa café, que es el suelo de este mundo mecánico.
+
+En ese suelo, los capacitores negros parecen pequeños silos de agua donde la electricidad se queda quieta un rato para recuperar el aliento. Las resistencias, con sus anillos de colores, son como túneles estrechos que obligan a la energía a ir más lento para no inundar el resto de la ciudad. Todo ese desorden de piezas está ahí para que el chip central, que parece un insecto negro pegado a la placa, pueda traducir los choques eléctricos en palabras que nosotros entendamos.
+
+Al final, el parlante es como el tambor de un chamán que empieza a vibrar cuando la electricidad lo golpea. Los cables verdes y amarillos son las venas que llevan la sangre eléctrica hasta ese tambor de metal y cartón. Cuando el imán de atrás empuja el aire, esos susurros que la antena cazó al principio por fin escapan de la radio convertidos en música, saliendo por los hoyitos de la carcasa como si fueran el último aliento de una máquina que nunca duerme.
+<img src="https://github.com/user-attachments/assets/6ea51125-a183-45d1-ade2-92912f5274e0" width="800%"> 
