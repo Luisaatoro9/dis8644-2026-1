@@ -55,7 +55,8 @@ El profesor recomendó este recurso como la plataforma líder para la simulació
 
 # Ejercicios en clases
 Primer ejercicio, para entender bien lo que estamos haciendo, decidí detallar cada punto del circuito uno por uno. Prefiero desglosar el funcionamiento de cada chip y sus componentes porque así se me quedan mejor los conceptos de lógica y flujo de señal.
-**Observaciones:** Lo más difícil aquí fue no equivocarse con las patas de los chips y acordarse de que los capacitores tienen lado positivo y negativo. Si los pongo al revés, no suena nada :( tambien no tengo que confundir la de 1k (Marrón-Negro-Rojo) con otras. Si pongo una muy grande en el LED, casi no va a alumbrar. Algo que ahora ya se me quedó grabado es que en el potenciómetro (RV1), la pata que controla el tono es la del medio. Si conecto solo las de los lados, la perilla no va a hacer nada.
+  
+  **Observaciones:** Lo más difícil aquí fue no equivocarse con las patas de los chips y acordarse de que los capacitores tienen lado positivo y negativo. Si los pongo al revés, no suena nada :( tambien no tengo que confundir la de 1k (Marrón-Negro-Rojo) con otras. Si pongo una muy grande en el LED, casi no va a alumbrar. Algo que ahora ya se me quedó grabado es que en el potenciómetro (RV1), la pata que controla el tono es la del medio. Si conecto solo las de los lados, la perilla no va a hacer nada.
 
  **El sonido:** Usamos una de las cuatro compuertas del chip 4093 (la U2A) para crear la señal sonora. Conectamos un potenciómetro de 100k y un capacitor de 1uF para controlar qué tan rápido "vibra" la señal. Básicamente, si giramos la perilla, el sonido se vuelve más agudo o más grave.
  
@@ -65,6 +66,11 @@ Primer ejercicio, para entender bien lo que estamos haciendo, decidí detallar c
  
  **Limpieza de señal:** Usamos varios capacitores electrolíticos (los que parecen botellitas) para quitar el ruido de la batería y para que el sonido que llega al parlante sea más estable.
 <img width="1275" height="769" alt="miPrimer4093" src="https://github.com/user-attachments/assets/7f316419-24ce-4339-b756-0adad1790156" />
+
+<img width="1275" height="769" alt="miPrimer4093" src="https://github.com/user-attachments/assets/5f7c7af5-77cb-4043-a4b9-e3681151b845" />
+https://github.com/user-attachments/assets/b0d29b5a-1f35-4cbe-a613-5b0bc88d6adc
+
+
 
 
 Segundo ejercicio en el cual 
