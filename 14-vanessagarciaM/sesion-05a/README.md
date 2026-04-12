@@ -4,7 +4,7 @@
 
 Gesto / control / dale / comoloensayamos
 
-Voltaje: |‾‾|__|‾‾|__|‾‾| 
+Voltaje: |‾‾|_|‾‾|
 
 Oscilador: ~~~~~~~
 
@@ -84,6 +84,9 @@ Puedes pensar en un inversor con disparador Schmitt como dos cosas separadas. A 
 Aquí tienes un gráfico rápido para visualizarlo. La línea ondulada representa el voltaje en la entrada, mientras que la línea punteada muestra el voltaje en la salida. Entonces, cada vez que cruzamos el umbral superior al subir y el inferior al bajar, la salida cambia de estado. 
 
 Una cosa muy importante a tener en cuenta: ¡no fluye corriente hacia el sensor! Realmente solo está “detectando” el voltaje sin afectarlo. 
+
+![st](./imagenes/schmitt-trigger-erica.jpeg)
+
 
 
 
