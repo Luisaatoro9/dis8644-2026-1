@@ -24,3 +24,4 @@ teniamos que armar en conjunto con un compañero un circuito MS→AS
 
 ![ms-as](./imagenes/msaas.jpg)
 
+![Ejercicio](./imagenes/ejercicio.jpg)
