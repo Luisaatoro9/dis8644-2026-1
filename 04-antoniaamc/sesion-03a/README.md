@@ -94,7 +94,7 @@ Preguntar por:
 RV resistencia 7/6
 
 
-###Sobre la oscilación###
+### Sobre la oscilación
 
 **Correcióon:**
 
@@ -121,7 +121,7 @@ La oscilación ocurre en la salida del circuito, no en el LED.
 El LED solo indica la señal.  
 Alimentación: 9V  
 
-
+  
 # *Segundo bloque*
 
 ### Referentes:
@@ -179,10 +179,12 @@ Puede ser momentáneo o perdurar en el tiempo.
 
 ### Capacitor:** detectar solamente las diferencias (ej: leer las noticias de hoy).
 
-Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).
+Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).  
+
+  
 
 
-### Anexo: Componentes electrónicos y símbolos
+## Anexo: Componentes electrónicos y símbolos
 
 ![componentes](./imagenes/componentes-electronicos-y-sus-simbolos.jpg)  
 [Fuente](https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/)
