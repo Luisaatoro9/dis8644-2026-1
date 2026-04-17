@@ -13,15 +13,11 @@ Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-m
 ### Rererentes:
 
 ## David Byrne  
-Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *Luaka Bop*. Famoso por usar un "traje grande" ("*Big Suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas**🔥🔥 que considera un superpoder creativo.
+Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *[Luaka Bop](https://luaka-bop.myshopify.com/)*. Famoso por usar un "traje grande" ("*Big Suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas**🔥🔥 que considera un superpoder creativo.
 
 Fuente: su [página de Wikipedia](https://es.wikipedia.org/wiki/David_Byrne#:~:text=Para%20el%20pol%C3%ADtico%2C%20v%C3%A9ase%20David%20Byrne%20(pol%C3%ADtico).,de%20colaborar%20con%20multitud%20de%20otros%20artistas.)
 
 🤖Discución de David Byne y Autismo en [Reddit](https://www.reddit.com/r/talkingheads/comments/17h8if5/how_certain_is_it_that_david_byrne_is_on_the/)
-
-**Luaka Bop [Logo original](https://luaka-bop.myshopify.com/)**
-
-![bitacora-05-a](./imagenes/luaka-bop-logo-original-bitacora-antoniaamc.png) 
 
 Fuente: [Wikipedia](https://en.wikipedia.org/wiki/Luaka_Bop)
 
@@ -41,7 +37,7 @@ Presentaciones en vivo:
 6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).  
 
 ## St. Vincent  
-Anne Erin "Annie" Clark (1982), conocida por su nombre artístico St. Vincent, es una cantautora y multiinstrumentista estadounidense.
+Anne Erin "Annie" Clark (1982), conocida por su nombre artístico St. Vincent, es una cantautora y multiinstrumentista estadounidense...seguir
 
 -----------------------------
 # ARREGLAR
@@ -101,21 +97,14 @@ Leer código binario implica convertir secuencias de ceros y unos en números (s
 **¿Qué es un bit?**  
 Un bit (dígito binario) es la unidad mínima de información, con dos únicos valores posibles: 0 o 1.
 
-- Los bits y el sistema binario se basa en potencias de 2 porque utiliza solo dos estados (encendido/apagado, sí/no) -> corresponde al Hardware de transitores.
+- Los bits y el sistema binario se basa en **potencias de 2** porque utiliza solo dos estados (encendido/apagado, sí/no) -> corresponde al Hardware de transitores.
 
 Esto es un sistema de **8 bits**: Cada columna (B3, B2, B1, B0) es un “interruptor” que puede estar en **0 (apagado)** o **1 (encendido)**.
 
-| Potencia | Bit | Valor |
-|--------:|:--:|:--:|
-| 2^8 | B8  | 256 |
-| 2^7 | B7  | 128 |
-| 2^6 | B6  | 64 |
-| 2^5 | B5  | 32 |
-| 2^4 | B4  | 16 |
-| 2^3 | B3  | 8 |
-| 2^2 | B2  | 4 |
-| 2^1 | B1  | 2 |
-| 2^0 | B0  | 1 |
+|        | B8  | B7  | B6  | B5  | B4  | B3  | B2  | B1  | B0  |
+|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Potencia | 2^8 | 2^7 | 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
+| Valor    | 256 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
 
 Entonces, se suman los valores que tienen **1**(prendido).
 
@@ -167,6 +156,8 @@ Fuente: [Circuito integrado 555, Wkipedia](https://es.wikipedia.org/wiki/Circuit
 
 Para identificar los pines, coloca el chip con la muesca o punto hacia la izquierda;  
 el pin 1 es abajo a la izquierda y la numeración sigue en sentido contrario a las agujas del reloj hasta el 8.
+
+- Video explicativo 1, muy didáctico [link)](https://www.youtube.com/watch?v=F7ejdqXia7I&t=10s)]
 
   tierra / 9 byts
 
