@@ -5,7 +5,11 @@ Clase 14 de abril
 
 <p>Asi que procedere a explicar como nos fue en mi grupo. Primero intentamos hacer todo el circuito completo asi de principio, pero nos pasaba que al conectar todo no nos funcionaba como tal el sintetizador, pero al desconectar el sistema de las LEDS si funcionaba, y el sintetizador funcionaba tambien, pero por separado, no supimos como resolverlo en esta clase, cambiabamos cables y resistencias, y no habia ningun resultado, nos fuimos a las casas un pocos frsutrados porque no lo logramos completamente, pero sin perder la motivacion de poder lograrlo, ya que sabiamos que habia algo que habiamos hecho mal nosotros solo que debiamos descubrir que era para poder lograrlo...</p>
 
-**imagen de esquematico**
+![esquematico](./imagenes/esquematico.png)
 
-**imagen de proceso clase**
+*Imagen del esquema a seguir para el trabajo*
+
+![imagen proceso](./imagenes/proceso.jpg)
+
+*Imagen del proceso de la clase*
 
