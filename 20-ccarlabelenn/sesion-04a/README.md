@@ -29,6 +29,6 @@ para llegar a lo que se ve en la foto fue bastante directo.
 
 + las "R" y las "C": esos puntitos soldados cerca del chip son las resistencias y los capacitores. las resistencias controlan que no pase más energía de la cuenta (para no quemar nada) y los capacitores guardan un poquito de carga para que la corriente sea estable y no de tirones.
 
-caminos de cobre: esas líneas que parecen un mapa por toda la placa son las pistas que llevan la electricidad de un lado a otro. (esto tuve que investigarlo porque no tenia idea)
++ caminos de cobre: esas líneas que parecen un mapa por toda la placa son las pistas que llevan la electricidad de un lado a otro. (esto tuve que investigarlo porque no tenia idea)
 
-las rejillas de contacto: debajo de cada botón hay unos dibujos en forma de laberinto. ahí es donde ocurre la magia cuando presionas una tecla. (esto tambien que loco)
++ las rejillas de contacto: debajo de cada botón hay unos dibujos en forma de laberinto. ahí es donde ocurre la magia cuando presionas una tecla. (esto tambien que loco)
