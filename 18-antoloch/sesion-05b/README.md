@@ -57,7 +57,8 @@ Más que encender cosas, organiza eventos en el tiempo.
 ---
 
 ## el CD4017
- IMAGENNNNNNNNNNNNN
+![4017](./imagenes/4017.png)
+
 El CD4017 es un contador de décadas con 10 salidas (Q0 a Q9). Cada vez que recibe un pulso, activa la siguiente salida en orden.
 
 El recorrido es secuencial y cíclico: cuando llega al final, vuelve al inicio.
@@ -83,7 +84,6 @@ La velocidad del clock cambia completamente la percepción del sistema:
 ---
 
 ## control del sistema
-IMAGENNNNNNNNNNNNNNNNNNNNNN
 El 4017 tiene pines que permiten modificar su comportamiento:
 
 - CLK: entrada de pulsos  
