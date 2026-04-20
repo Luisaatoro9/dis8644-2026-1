@@ -21,5 +21,10 @@
 
 salidas ast se conectan con las ressitencas al mix que va hacia el amplificador
 
+# trabajo en clases #
+
+como equipo seguimos trabajando en nuestro circuito, no funcionó. solo funcionaban las dos primeras partes y en las ultimas tuvimos bastantes problemas para integrarlas. Se nos quemó el cihpo 4093 y los potenciometros no funcionaban correctamente.
+![ejercicio](imagenes/ejercicio.jpg)
+
 
 
