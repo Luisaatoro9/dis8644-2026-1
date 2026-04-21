@@ -32,6 +32,13 @@ Hoy implementamos el chip 4017
 
 - Contador de décadas es de Q0 a Q9
 
+### proceso
+
+![clock](imagenes/clock-generator.png)
+![clock](imagenes/clock-proto.jpg)
+![secuenciador](imagenes/secuenciador-as-an-img.jpg)
+
+
 ### post-clase
 
 El mismo día de la clase, por la tarde tuve la oportunidad de poder ir al lanzamiento del álbum Umbral de cómo asesinar a felipes (CAF) y en este álbum participa Martín Benavides el cual toca el theremin y fue increíble la experiencia. Quedé impresionada con la agilidad que podía tocar y hacer lo mismo que en la grabación. También como mencioné más arriba David Byme estuvo en mis pensamientos porque CAF hacía algo parecido, los movimiento coreográficos, pero cada uno por su lado. 
