@@ -62,9 +62,7 @@ La histéresis implica que:
 | NAND | AND negada |
 
 
-## Sistema práctico con ICs
-
-### Componentes:
+### Componentes chips :)))
 - NE555 
 - CD4017 
 - CD4093 
@@ -97,16 +95,15 @@ El **CD4017**:
 ## Problemas comunes
 
 Sin histéresis:
-- Oscilaciones no deseadas
-- Rebotes
+- Oscilaciones no deseadas .
 - Señales inestables
 
 ---
 
 ##  Aplicaciones
 
-- Botones (debounce)
-- Sensores analógicos → digital
+- Botones 
+- Sensores 
 - Osciladores
 - Sistemas secuenciales
 - Interfaces electrónicas
@@ -118,4 +115,6 @@ Sin histéresis:
 Bueno, el circuito no nos funcionó completamente. Solo logramos que encendieran las luces en las dos primeras partes del circuito, el resto no funcionó en absoluto.
 ![sesion06a](./imagenes/sesion06a.jpeg)
 ![sesion06aa](./imagenes/sesion06aa.jpeg)
-
+ 
+controlar la frustración, seguir, seguir y seguir!! hasta lograrlo
+No pensar constantemente en que repetí mil veces los pasos, solo mirar al futuro jiji 
