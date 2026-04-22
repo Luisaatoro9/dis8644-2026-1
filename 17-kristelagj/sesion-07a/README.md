@@ -29,6 +29,7 @@ Una frase que me gusto escuchar y que la estuve reflexionando desde que vi el tr
 ![micro](imagenes/micro.jpg)
 ![word-image](imagenes/word-image.png)
 
+--------
 
 
 
