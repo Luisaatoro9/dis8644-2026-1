@@ -53,6 +53,9 @@ Sin embargo, dejó de funcionar la primera etapa. Se revisaron las conexiones, p
 
 Después de realizar múltiples pruebas, hicimos funcionar el circuito guiándonos exactamente por el esquemático original. Conseguimos que los cuatro steps se activaran con sus sonidos correspondientes y logramos sincronizarlos a la perfección con el ritmo del reloj. Una vez que el circuito estaba funcionando, comenzamos a experimentar con él, descubriendo una amplia gama de sonidos y múltiples posibilidades creativas.
 
+![Esquematicos](./imagenes/esquematico4093-386.png)
+![Resultados](./imagenes/img4093-386.jpeg)
+
 ## modificaciones realizadas a los circuitos originales
 
 Se realizaron primeras pruebas y cambios de capacitores de forma individual, colocando resistencias en los LED para activar solo el STEP deseado y así poder definir el sonido ideal.
