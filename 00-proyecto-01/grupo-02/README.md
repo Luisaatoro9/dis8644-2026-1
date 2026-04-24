@@ -175,6 +175,8 @@ Los potenciómetros fueron soldados a cables con el objetivo de poder ubicarlos 
 
 El sistema se construyó utilizando cables Dupont tanto para el circuito principal como para las interconexiones entre módulos, permitiendo la conexión de los distintos componentes del circuito de forma ordenada y funcional. 
 
+![Diagranma de interconexiones](./imagenes/diagrama-de-interconexiones.jpg)
+
 ## resultados finales
 
 El resultado es un sintetizador modular funcional con forma de pez, hecho con cartón corrugado de 3 mm mediante corte láser. El sistema está dividido en dos partes (cabeza y cuerpo), lo que ayudó a ordenar mejor los componentes y sus conexiones.
