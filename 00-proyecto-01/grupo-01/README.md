@@ -112,22 +112,32 @@ incluir origen de materiales, decisiones de posiciones de los componentes, decis
 
 ## Interconexión entre módulos
 
-textos, imágenes, diagramas de interconexión
-![]()
-![]()
+Al hablar entre nosotros nos interesó la idea de tener 3 modulos, uno para el 4093 y "Big Muff", uno para el LM386 y uno para el parlante. Desde el principio quizimos tener una caja inecesariamente grande para lo que sea que contenga. Al tener esto en mente nos que damos con este diseño.
+
+![Idea modulos cajas](./imagenes/cajas.png)
+
+Todo estaría conectado con cables dupont. Eso por temas de alcanze entre cajas y por seguridad en la conexión a la protoboard, el modulo con el parlante lo terminamos conectando con cables comunes para lograr la distancia y largo deseado. En cuanto a los colores de cables externos, en el parlante para indicar positivo y negativo usamos rojo y negro respectivamente. Del 4093/Filtro al LM386 usamos duponts in/out blanco/gris y amarillo. El amarillo para marcar el output del filtro, el gris para positivo y blanco para tierra. Estos colores para mantenernos dentro de los colores que eligimos. La trenza en la parte del LM386 se hizo más que nada para decorar y para que por ese lado los cables no estén sueltos.
+
+Decidímos también poner el LM386 sobre la caja del 4093/Filtro principalmente por razones de estetica, pero tambíen por el largo de los cables, que para no arriesgar una mala conexión a la protoboard usamos dupont. En el parlante usamos de cable común a caimán/dupont en la protoboard.
+
+![Modulos montados](./imagenes/modulos-1.jpg)
+
+![Parlante cable caiman](./imagenes/parlante-modular.jpg)
 
 
 ## Resultados finales
 
-texto
+Como resultado final tenemos un "brumarcas-ulator", que funciona como generador de ruido inspirado en artistas de drone/noise como "Belong" y "Tim Hecker". Un synth modular con 3 cajas distintivas, una con un IC 4093 y filtro "Big Muff" con 6 potenciómetros para controlar el sonido, otra con un amplificador LM386 que se conecta a la ultima caja que contiene el parlante.
 
-imagen
-![]()
-![]()
+![brumarcas-ulator 1](./imagenes/brumarcas-foto-3.jpg)
 
-video / audio
-![]()
-![]()
+![brumarcas-ulator 2](./imagenes/brumarcas-foto-4.jpg)
+
+
+https://github.com/user-attachments/assets/228fa58b-05e1-4e26-8721-6c8a360c92b5
+
+
+Estamos muy contentos y orgullosos con el resultado final :)
 
 ## Aprendizajes y errores
 
