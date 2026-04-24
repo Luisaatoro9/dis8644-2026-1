@@ -87,6 +87,9 @@ Para proteger los componentes, el cátodo de cada LED se conectó al negativo a 
 ## proceso y resultados de osciladores y amplificador
 
 ### Chips 4093
+
+![4093 y 386](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/4093-y-386.jpg)
+
 Secuenciador se transforman en frecuencias audibles mediante el uso de compuertas Schmitt Trigger.
 
 #### Paso 1: Alimentación
