@@ -119,8 +119,7 @@ La señal proveniente del nodo MIX se dirige a un potenciómetro (100k) para el 
 #### 3. Paso 3: Salida hacia el Parlante
 La salida de audio se obtiene desde pin 5. Desde este punto, se conecta el capacitor (100uF) en serie, el cual va dirigido hacia el parlante (LS1). Para completar el circuito, el terminal restante del parlante se conecta al nodo de tierra (GND). Finalizando con la soldadora de estas conexiones para poder tener una seguridad de conexión. 
 
-imágenes sobre cableado, pruebas, resultados obtenidos.
-
+![proceso](imagenes/proceso/proceso_1.jpeg)
 ## modificaciones realizadas a los circuitos originales
 
 ### Proceso:
