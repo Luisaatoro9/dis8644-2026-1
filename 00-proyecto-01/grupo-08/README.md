@@ -91,13 +91,11 @@ Los errores más comunes en relación al armado fueron principalmente el uso de 
 
 La conexión incorrecta de componentes en el chip 386, específicamente los condensadores, fue un error importante porque impedía la salida de audio. Al corregir estas conexiones e incorporar el condensador de 100uF, se logró estabilizar la señal.
 
-A pesar de las dificultades técnicas logramos completar el circuito y obtener el sonido, lo que fue un avance importante para el grupo. El tener errores nos permitió comprender de mejor manera la relación entre las distintas etapas del sistema, clock, secuenciador, sintetizador y salida y evidenció la importancia de un montaje ordenado y colaborativo. 
-
-
-
 https://github.com/user-attachments/assets/d09eb3bf-f310-4373-b5a1-2eff0198916e
 
+A pesar de las dificultades técnicas logramos completar el circuito y obtener el sonido, lo que fue un avance importante para el grupo. El tener errores nos permitió comprender de mejor manera la relación entre las distintas etapas del sistema, clock, secuenciador, sintetizador y salida y evidenció la importancia de un montaje ordenado y colaborativo. 
 
+https://github.com/user-attachments/assets/3ae745df-500d-4cb4-a659-6ccba9d3c515
 
 ## conclusiones
 
