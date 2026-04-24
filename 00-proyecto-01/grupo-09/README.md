@@ -206,6 +206,7 @@ flowchart TD
 [![final](./imagenes/la-caja.png)]((https://youtube.com/shorts/2OlexzJCbLg?feature=share))
 ![final](./imagenes/la-caja1.png)
 ![final](./imagenes/la-caja2.png)
+![Esquemático](./imagenes/esq-la-caja.png)
 
 ## Aprendizajes y errores
 
