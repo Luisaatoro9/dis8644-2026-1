@@ -66,6 +66,8 @@ Despues
 
 ## carcasas de cartón
 
+La carcasa fue pensada inicialmente para facilitar la integración de los componentes, evitando cables sueltos. La idea es que elementos como las luces y las perillas estén conectados entre sí mediante cortes o canales dentro de la estructura, permitiendo una instalación más limpia y organizada.
+
 ![carcasa2](./imagenes/carcasa2.jpeg)
 
 ![carcasa](./imagenes/carcasa.jpeg)
