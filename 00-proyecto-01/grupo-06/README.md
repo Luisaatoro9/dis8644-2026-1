@@ -32,9 +32,12 @@ Comencemos:
 **Precarias**, llamado así por las diferentes situaciones inseguras ( errores o la constante broma de que todo iba a explotar) que nos hacía pasar el circuito antes de consolidarse como sintetizador funcional. Un sintetizador construido sobre protoboards e integrado en una carcasa de cartón diseñada bajo criterios de experiencia de usuario (UX). El diseño consiste de una interfaz múltiple: una zona táctil (fotoresistor) y otra con potenciómetros situados en el frente y los lateral izquierdo, teniendo así una experiencia multisensorial. 
 El sistema se organiza en cuatro etapas, cada una realizada por un circuito integrado:
 
-+ **Módulo 1:** consta del Clock (555) en modo astable que genera una oscilación constante. Utiliza un potenciómetro para regular carga y descarga, permitiendo un control sobre el ritmo y la actividad del sistema. Además cuenta con un fotoresistor la cual ayuda en la velocidad de la frecuencia. 
++ **Módulo 1:** consta del Clock (555) en modo astable que genera una oscilación constante. Utiliza un potenciómetro para regular carga y descarga, permitiendo un control sobre el ritmo y la actividad del sistema. Además cuenta con un fotoresistor la cual ayuda en la velocidad de la frecuencia.
+  
 + **Módulo 2:** es el Secuenciador (4017), este componente recibe la señal del clock la cual se presenta en una secuencia de 4/4. Su función es organizar los pulsos en pasos cronometrados (steps) para dar estructura rítmica.
+  
 + **Módulo 3:** Aquí se encuentra el sintetizador (4093), donde le da vida a Precarias. Utiliza compuertas NANDS (Schmitt Trigger) que reciben los pasos del secuenciador; cuenta con 4 potenciómetros y condensadores que ayudan a la frecuencia, en nuestro caso son todos iguales.
+  
 + **Módulo 4:** La etapa final de precarias es la salida (386) donde se encarga de procesar las señales de las zonas anteriores para amplificarlas. A través de este chip, la señal se proyecta hacia el parlante, controlado a través de un potenciómetro.
 
 ¿Pero qué distingue a Precarias de otros sintetizadores? Precarias incorpora una diversidad de condensadores, los cuales influyen directamente en la variación de las frecuencias y sonido del sintetizador. Además, el dispositivo cuenta con dos interfaces interactivas múltiple: por un lado, un fotoresistor como control de velocidad, y por otro, potenciómetros, que permiten un control manual más preciso sobre distintos parámetros del sistema.
